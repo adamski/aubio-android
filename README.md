@@ -8,3 +8,12 @@ export NDK_MODULE_PATH=<path-to>/aubio-android
 ```
 add this to your .bashrc or .zshrc
 
+Make sure your main Android.mk file has 
+
+```make
+LOCAL_STATIC_LIBRARIES += aubio
+```
+and, at the very end
+```make
+$(call import-module, aubio)
+```
