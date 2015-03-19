@@ -1,6 +1,7 @@
 # aubio-android
-Android NDK module for Aubio
+Android NDK module for Aubio http://aubio.org
 
+Includes precompiled static libraries for arm and arm-v7, built with NDK 9. 
 
 Important: Set your NDK_MODULE_PATH with 
 ```bash
