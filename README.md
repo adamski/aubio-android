@@ -1,5 +1,5 @@
 # aubio-android
-Android NDK module for Aubio http://aubio.org
+Android NDK module for [Aubio](http://aubio.org)
 
 Includes precompiled static libraries for arm and arm-v7, built with NDK 9. 
 
@@ -13,7 +13,7 @@ add this to your .bashrc or .zshrc
 
 ## JUCE instructions 
 
-If you are using the JUCE framework (latest tip as of 30/03/2015), you can just add ```aubio``` to the "Import static library modules" in the Android config section in Introjucer. 
+If you are using the [JUCE](www.juce.com) framework (latest tip as of 30/03/2015), you can just add ```aubio``` to the "Import static library modules" in the Android config section in Introjucer. 
 
 ## General instructions 
 (If you are not using JUCE or the latest tip)
