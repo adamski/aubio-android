@@ -14,6 +14,7 @@ add this to your .bashrc or .zshrc
 ## JUCE instructions 
 
 If you are using the [JUCE](http://www.juce.com) framework (latest tip as of 30/03/2015), you can just add ```aubio``` to the "Import static library modules" field in the Android config section in Introjucer.
+![Introjucer screenshot](Introjucer-import-aubio-android.png)
 
 
 ## General instructions 
