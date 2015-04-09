@@ -3,6 +3,8 @@ Android NDK module for [Aubio](http://aubio.org)
 
 Includes precompiled static libraries for arm and arm-v7, built with NDK 9. 
 
+Aubio version 0.4.1
+
 (See build-scripts for examples of building Aubio for android)
 
 Important: Set your NDK_MODULE_PATH with 
